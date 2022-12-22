@@ -50,7 +50,7 @@ console.log(myArr); */
 
 // Object 
 
-let myObj:{
+let myOb/* j:{
     name: string,
     age: number,
     isSingle: boolean,
@@ -63,4 +63,26 @@ myObj ={
     isSingle: true,
     name2: 'pixel'
 }
-console.log(myObj);
+console.log(myObj); */
+
+// Dynamic Type
+// ----------------------
+/* let a: any
+a = 33
+a= 'string' */
+
+// arrays 
+/* let a:any[] = []
+a.push('string',33,true) */
+
+// Object 
+/* let myObj:{
+    name: any,
+    age: number
+}
+
+myObj = {
+    name: 'kabir',
+    age: 33,
+    
+} */

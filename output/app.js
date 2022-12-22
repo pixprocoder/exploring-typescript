@@ -39,11 +39,36 @@ a = 'string' */
 myArr.push(33, 'string')
 console.log(myArr); */
 // Object 
-let myObj;
-myObj = {
+let myOb; /* j:{
+    name: string,
+    age: number,
+    isSingle: boolean,
+    name2: string
+}
+
+myObj ={
     name: 'sk',
     age: 22,
     isSingle: true,
     name2: 'pixel'
-};
-console.log(myObj);
+}
+console.log(myObj); */
+// Dynamic Type
+// ----------------------
+/* let a: any
+a = 33
+a= 'string' */
+// arrays 
+/* let a:any[] = []
+a.push('string',33,true) */
+// Object 
+/* let myObj:{
+    name: any,
+    age: number
+}
+
+myObj = {
+    name: 'kabir',
+    age: 33,
+    
+} */ 
