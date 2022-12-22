@@ -86,3 +86,19 @@ myObj = {
     age: 33,
     
 } */
+
+// How to use Functions in ts
+// -----------------
+const func1 = (a:number,b:number, c?: boolean) =>{
+   return a+b
+}
+const result =func1(2,5,false)
+console.log(result);
+
+
+/* let fun2: Function;
+
+fun2 = ()=>{
+    console.log('object');
+}
+fun2() */
